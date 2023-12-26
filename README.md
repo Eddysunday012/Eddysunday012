@@ -6,5 +6,4 @@
 
 # Technical Skills
 
-![](https://img.shields.io/badge/python)
-![](https://img.shields.io/badge/javascript)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
