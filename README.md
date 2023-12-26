@@ -11,5 +11,8 @@
 ![Static Badge](https://img.shields.io/badge/Code-Javascript-yellow?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Code-TypeScript-blue?logo=typescript)
 ![Static Badge](https://img.shields.io/badge/Code-C-gray?logo=c)
+![Static Badge](https://img.shields.io/badge/Code-html-orange?logo=html5)
+![Static Badge](https://img.shields.io/badge/Code-CSS-blue?logo=css3)
+
 
 
