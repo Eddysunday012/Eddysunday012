@@ -6,6 +6,10 @@
 
 # Technical Skills
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=61DAFB)
+![Static Badge](https://img.shields.io/badge/Code-Python-blue?logo=python)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![Static Badge](https://img.shields.io/badge/Code-Javascript-yellow?logo=javascript)
+![Static Badge](https://img.shields.io/badge/Code-TypeScript-blue?logo=typescript)
+![Static Badge](https://img.shields.io/badge/Code-C-gray?logo=c)
+
 
