@@ -6,5 +6,5 @@
 
 # Technical Skills
 
-![Static Badge](https://img.shields.io/badge/python)
-![Static Badge](https://img.shields.io/badge/javascript)
+![](https://img.shields.io/badge/python)
+![](https://img.shields.io/badge/javascript)
