@@ -17,5 +17,5 @@
 # Tools
 
 ![Static Badge](https://img.shields.io/badge/Code-Neovim-green?logo=neovim)
-
-
+![Static Badge](https://img.shields.io/badge/Code-Wezterm-purple?logo=wezterm)
+![Static Badge](https://img.shields.io/badge/Code-Tmux-green?logo=tmux)
