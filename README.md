@@ -16,6 +16,6 @@
 
 # Tools
 
-![Static Badge](https://img.shields.io/badge/Code-CSS-blue?logo=neovim)
+![Static Badge](https://img.shields.io/badge/Code-Neovim-green?logo=neovim)
 
 
